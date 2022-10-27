@@ -1,0 +1,21 @@
+.addExchange{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.addExchange .add div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    width: 250px;
+    border-radius: 5px;
+}
+.addExchange .add div button{
+    font-size: 25px;
+    height: 30px;
+    line-height: 15px;
+}
+

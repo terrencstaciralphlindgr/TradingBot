@@ -1,0 +1,44 @@
+.connectKucoin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.connectKucoin h3{
+    text-align: center;
+    font-size: 22px;
+}
+
+.connectKucoin h4{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.connectKucoin .main div{
+    line-height: 18px;
+}
+.connectKucoin .main div p{
+    font-size: 14px;
+}
+.connectKucoin .main div h5{
+    font-weight: 400;
+    font-size: 16px;
+    color: rgb(2, 6, 46);
+}
+
+.connectKucoin .api{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.connectKucoin .api p{
+    background-color: white;
+    width: 300px;
+    text-align: start;
+    padding:5px 10px;
+    margin:10px auto;
+    position: relative;
+    bottom: 30px;
+    font-size: 15px;
+}

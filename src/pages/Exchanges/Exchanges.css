@@ -1,0 +1,21 @@
+.exchange{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.exchange .section1{
+    background-color: lightgray;
+    width: 55vw;
+    height: 80vh;
+    margin: 50px 20px 10px 20px;
+    padding: 20px ;
+}
+
+.exchange .section2{
+    background-color: lightgray;
+    width: 25vw;
+    height: 80vh;
+    margin: 50px 20px 10px 20px;
+    text-align: center;
+    padding: 10px;
+}

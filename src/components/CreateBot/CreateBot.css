@@ -1,0 +1,16 @@
+.createbot .add{
+    padding:5px 15px;
+    display:flex ;
+    justify-content:space-between ;
+    background:#fff;
+    border-radius: 5px;
+}
+.createbot .add button{
+    font-size: 25px;
+    height: 30px;
+    line-height: 15px;
+}
+.createbot .list{
+    display: flex;
+    justify-content: space-between;
+}
